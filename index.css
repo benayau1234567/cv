@@ -1,0 +1,35 @@
+body{
+    background: url(imagePizza.png);
+    background-position: top -100px center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    
+    h1{
+        width: fit-content;
+        margin: auto;
+        color: rgb(255, 255, 255);
+        font-size: 90px;
+    }
+    /* h2{
+        width: fit-content;
+        margin: auto;
+        color: rgb(255, 255, 255);
+        font: size 50px;
+    } */
+   form{
+       background-color:rgba(255, 255, 255,0.4);
+       border: solid rgb(223, 97, 97) 1px;
+       border-radius: 20px;
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    text-align: center;
+    font-size: 21px;
+   }
+
+    #button{
+        box-shadow: 1.5px 3px;
+    }
+
+
